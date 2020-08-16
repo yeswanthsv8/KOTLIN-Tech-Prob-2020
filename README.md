@@ -1,1 +1,1 @@
-# KOTLIN-Tech-Problems-2020
+Language Basics || Operators || Branching || Looping || Arrays || Strings.
